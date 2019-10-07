@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.1.30)  5 OCT 2019 13:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.1.30)  7 OCT 2019 18:24
 entering extended mode
 **./FlowCGAN_ICC2020.tex
 (FlowCGAN_ICC2020.tex
@@ -522,20 +522,20 @@ Before submitting the final camera ready copy, remember to:
 
 ] (FlowCGAN_ICC2020.aux) ) 
 Here is how much of TeX's memory you used:
- 5544 strings out of 495207
- 84863 string characters out of 3181523
+ 5533 strings out of 495207
+ 84854 string characters out of 3181523
  152603 words of memory out of 3000000
- 8747 multiletter control sequences out of 15000+200000
- 45414 words of font info for 104 fonts, out of 3000000 for 9000
+ 8741 multiletter control sequences out of 15000+200000
+ 42791 words of font info for 97 fonts, out of 3000000 for 9000
  21 hyphenation exceptions out of 8191
- 42i,14n,39p,1713b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,14n,39p,1776b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/share/miktex-texmf/fonts/enc/dvips/base/8
 r.enc}</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
 /usr/local/share/miktex-texmf/fonts/type1/urw/times/utmb8a.pfb></usr/local/shar
 e/miktex-texmf/fonts/type1/urw/times/utmbi8a.pfb></usr/local/share/miktex-texmf
 /fonts/type1/urw/times/utmr8a.pfb></usr/local/share/miktex-texmf/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on FlowCGAN_ICC2020.pdf (6 pages, 956181 bytes).
+Output written on FlowCGAN_ICC2020.pdf (6 pages, 957003 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
