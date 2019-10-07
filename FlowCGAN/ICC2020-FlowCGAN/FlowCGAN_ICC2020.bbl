@@ -21,108 +21,143 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{bonomi2012}
+\bibitem{Finsterbusch2014}
+M.~{Finsterbusch}, C.~{Richter}, E.~{Rocha}, J.~{Muller}, and K.~{Hanssgen},
+  ``A survey of payload-based traffic classification approaches,'' \emph{IEEE
+  Communications Surveys Tutorials}, vol.~16, no.~2, pp. 1135--1156, Second
+  2014.
+
+\bibitem{SDN-HGU}
+P.~{Wang}, F.~{Ye}, and X.~{Chen}, ``A smart home gateway platform for data
+  collection and awareness,'' \emph{IEEE Communications Magazine}, vol.~56,
+  no.~9, pp. 87--93, Sep. 2018.
+
+\bibitem{PhoneNumber}
+P.~{Wang}, X.~{Chen}, F.~{Ye}, and Z.~{Sun}, ``A smart automated signature
+  extraction scheme for mobile phone number in human-centered smart home
+  systems,'' \emph{IEEE Access}, vol.~6, pp. 30\,483--30\,490, 2018.
+
+\bibitem{Pescape2008}
+A.~{Dainotti}, A.~{Pescape}, and K.~C. {Claffy}, ``Issues and future directions
+  in traffic classification,'' \emph{IEEE Network}, vol.~26, no.~1, pp. 35--40,
+  January 2012.
+
+\bibitem{Sun2010}
+G.~{Sun}, Y.~{Xue}, Y.~{Dong}, D.~{Wang}, and C.~{Li}, ``An novel hybrid method
+  for effectively classifying encrypted traffic,'' in \emph{2010 IEEE Global
+  Telecommunications Conference GLOBECOM 2010}, Dec 2010, pp. 1--5.
+
+\bibitem{Velan2015}
 \BIBentryALTinterwordspacing
-F.~Bonomi, R.~Milito, J.~Zhu, and S.~Addepalli, ``Fog computing and its role in
-  the internet of things,'' in \emph{Proceedings of the First Edition of the
-  MCC Workshop on Mobile Cloud Computing}, ser. MCC '12.\hskip 1em plus 0.5em
-  minus 0.4em\relax New York, NY, USA: ACM, 2012, pp. 13--16. [Online].
-  Available: \url{http://doi.acm.org/10.1145/2342509.2342513}
+P.~Velan, M.~\v{C}erm\'{a}k, P.~\v{C}eleda, and M.~Dra\v{s}ar, ``A survey of
+  methods for encrypted traffic classification and analysis,'' \emph{Netw.},
+  vol.~25, no.~5, pp. 355--374, Sep. 2015. [Online]. Available:
+  \url{http://dx.doi.org/10.1002/nem.1901}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Aazam2014gateway}
-M.~Aazam and E.~N. Huh, ``Fog computing and smart gateway based communication
-  for cloud of things,'' in \emph{2014 International Conference on Future
-  Internet of Things and Cloud}, Aug 2014, pp. 464--470.
+\bibitem{Arndt2011}
+D.~J. {Arndt} and A.~N. {Zincir-Heywood}, ``A comparison of three machine
+  learning techniques for encrypted network traffic analysis,'' in \emph{2011
+  IEEE Symposium on Computational Intelligence for Security and Defense
+  Applications (CISDA)}, April 2011, pp. 107--114.
 
-\bibitem{Faruque2016energy}
-M.~A.~A. Faruque and K.~Vatanparvar, ``Energy management-as-a-service over fog
-  computing platform,'' \emph{IEEE Internet of Things Journal}, vol.~3, no.~2,
-  pp. 161--169, April 2016.
+\bibitem{MobileTC-2018}
+G.~{Aceto}, D.~{Ciuonzo}, A.~{Montieri}, and A.~{Pescapé}, ``Mobile encrypted
+  traffic classification using deep learning,'' in \emph{2018 Network Traffic
+  Measurement and Analysis Conference (TMA)}, June 2018, pp. 1--8.
 
-\bibitem{Nazmudeen2016PLC}
-M.~S.~H. Nazmudeen, A.~T. Wan, and S.~M. Buhari, ``Improved throughput for
-  power line communication (plc) for smart meters using fog computing based
-  data aggregation approach,'' in \emph{2016 IEEE International Smart Cities
-  Conference (ISC2)}, Sept 2016, pp. 1--4.
+\bibitem{Datanet}
+P.~{Wang}, F.~{Ye}, X.~{Chen}, and Y.~{Qian}, ``Datanet: Deep learning based
+  encrypted network traffic classification in sdn home gateway,'' \emph{IEEE
+  Access}, vol.~6, pp. 55\,380--55\,391, 2018.
 
-\bibitem{Okay2016smartgrid}
-F.~Y. Okay and S.~Ozdemir, ``A fog computing based smart grid model,'' in
-  \emph{2016 International Symposium on Networks, Computers and Communications
-  (ISNCC)}, May 2016, pp. 1--6.
+\bibitem{deeppacket}
+M.~J. S. M.~S. Mohammad~Lotfollahi, Ramin Shirali Hossein~Zade, ``Deep packet:
+  A novel approach for encrypted traffic classification using deep learning,''
+  \emph{Available from \url{http://www.arxiv.org}}, 2017.
 
-\bibitem{Yan2016AMI}
-Y.~Yan and W.~Su, ``A fog computing solution for advanced metering
-  infrastructure,'' in \emph{2016 IEEE/PES Transmission and Distribution
-  Conference and Exposition (T D)}, May 2016, pp. 1--4.
+\bibitem{Wang-1D-CNN}
+W.~Wang, M.~Zhu, J.~Wang, X.~Zeng, and Z.~Yang, ``End-to-end encrypted traffic
+  classification with one-dimensional convolution neural networks,'' \emph{2017
+  IEEE International Conference on Intelligence and Security Informatics
+  (ISI)}, pp. 43--48, 2017.
 
-\bibitem{Satoh2013}
+\bibitem{Wang2D-CNN}
+and, , and and, ``Malware traffic classification using convolutional neural
+  network for representation learning,'' in \emph{2017 International Conference
+  on Information Networking (ICOIN)}, Jan 2017, pp. 712--717.
+
+\bibitem{Seq2Img}
+Z.~{Chen}, K.~{He}, J.~{Li}, and Y.~{Geng}, ``Seq2img: A sequence-to-image
+  based approach towards ip traffic classification using convolutional neural
+  networks,'' in \emph{2017 IEEE International Conference on Big Data (Big
+  Data)}, Dec 2017, pp. 1271--1276.
+
+\bibitem{HierarchicalTC}
+X.~{Chen}, J.~{Yu}, F.~{Ye}, and P.~{Wang}, ``A hierarchical approach to
+  encrypted data packet classification in smart home gateways,'' in \emph{2018
+  IEEE 16th Intl Conf on Dependable, Autonomic and Secure Computing, 16th Intl
+  Conf on Pervasive Intelligence and Computing, 4th Intl Conf on Big Data
+  Intelligence and Computing and Cyber Science and Technology
+  Congress(DASC/PiCom/DataCom/CyberSciTech)}, Aug 2018, pp. 41--45.
+
+\bibitem{blackhat}
+Z.Wang, ``The application of deep learning on traffic identification,''
+  \emph{Available from \url{http://www.blackhat.com}}, 2015.
+
+\bibitem{IoT-CNN-2017}
+M.~{Lopez-Martin}, B.~{Carro}, A.~{Sanchez-Esguevillas}, and J.~{Lloret},
+  ``Network traffic classifier with convolutional and recurrent neural networks
+  for internet of things,'' \emph{IEEE Access}, vol.~5, pp. 18\,042--18\,050,
+  2017.
+
+\bibitem{HAST-IDS}
+W.~{Wang}, Y.~{Sheng}, J.~{Wang}, X.~{Zeng}, X.~{Ye}, Y.~{Huang}, and M.~{Zhu},
+  ``Hast-ids: Learning hierarchical spatial-temporal features using deep neural
+  networks to improve intrusion detection,'' \emph{IEEE Access}, vol.~6, pp.
+  1792--1806, 2018.
+
+\bibitem{Japkowicz:2002}
 \BIBentryALTinterwordspacing
-I.~Satoh, \emph{A Framework for Data Processing at the Edges of
-  Networks}.\hskip 1em plus 0.5em minus 0.4em\relax Berlin, Heidelberg:
-  Springer Berlin Heidelberg, 2013, pp. 304--318. [Online]. Available:
-  \url{https://doi.org/10.1007/978-3-642-40173-2_25}
+N.~Japkowicz and S.~Stephen, ``The class imbalance problem: A systematic
+  study,'' \emph{Intell. Data Anal.}, vol.~6, no.~5, pp. 429--449, Oct. 2002.
+  [Online]. Available: \url{http://dl.acm.org/citation.cfm?id=1293951.1293954}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Cherrier2011}
-S.~Cherrier, Y.~M. Ghamri-Doudane, S.~Lohier, and G.~Roussel, ``D-lite:
-  Distributed logic for internet of things services,'' in \emph{2011
-  International Conference on Internet of Things and 4th International
-  Conference on Cyber, Physical and Social Computing}, Oct 2011, pp. 16--24.
-
-\bibitem{Hong2013}
+\bibitem{Vu2017}
 \BIBentryALTinterwordspacing
-K.~Hong, D.~Lillethun, U.~Ramachandran, B.~Ottenw\"{a}lder, and B.~Koldehofe,
-  ``Mobile fog: A programming model for large-scale applications on the
-  internet of things,'' in \emph{Proceedings of the Second ACM SIGCOMM Workshop
-  on Mobile Cloud Computing}, ser. MCC '13.\hskip 1em plus 0.5em minus
-  0.4em\relax New York, NY, USA: ACM, 2013, pp. 15--20. [Online]. Available:
-  \url{http://doi.acm.org/10.1145/2491266.2491270}
+L.~Vu, C.~T. Bui, and Q.~U. Nguyen, ``A deep learning based method for handling
+  imbalanced problem in network traffic classification,'' in \emph{Proceedings
+  of the Eighth International Symposium on Information and Communication
+  Technology}, ser. SoICT 2017.\hskip 1em plus 0.5em minus 0.4em\relax New
+  York, NY, USA: ACM, 2017, pp. 333--339. [Online]. Available:
+  \url{http://doi.acm.org/10.1145/3155133.3155175}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Chen2017}
-Y.~C. Chen, Y.~C. Chang, C.~H. Chen, Y.~S. Lin, J.~L. Chen, and Y.~Y. Chang,
-  ``Cloud-fog computing for information-centric internet-of-things
-  applications,'' in \emph{2017 International Conference on Applied System
-  Innovation (ICASI)}, May 2017, pp. 637--640.
-
-\bibitem{Yiming2016}
-Y.~Xu, V.~Mahendran, and S.~Radhakrishnan, ``Towards sdn-based fog computing:
-  Mqtt broker virtualization for effective and reliable delivery,'' in
-  \emph{2016 8th International Conference on Communication Systems and Networks
-  (COMSNETS)}, Jan 2016, pp. 1--6.
-
-\bibitem{Hong2016}
-H.~J. Hong, P.~H. Tsai, and C.~H. Hsu, ``Dynamic module deployment in a fog
-  computing platform,'' in \emph{2016 18th Asia-Pacific Network Operations and
-  Management Symposium (APNOMS)}, Oct 2016, pp. 1--6.
-
-\bibitem{Johnston2004}
+\bibitem{Vu2016}
 \BIBentryALTinterwordspacing
-W.~M. Johnston, J.~R.~P. Hanna, and R.~J. Millar, ``Advances in dataflow
-  programming languages,'' \emph{ACM Comput. Surv.}, vol.~36, no.~1, pp. 1--34,
-  Mar. 2004. [Online]. Available:
-  \url{http://doi.acm.org/10.1145/1013208.1013209}
+L.~Vu, D.~Van~Tra, and Q.~U. Nguyen, ``Learning from imbalanced data for
+  encrypted traffic identification problem,'' in \emph{Proceedings of the
+  Seventh Symposium on Information and Communication Technology}, ser. SoICT
+  '16.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA: ACM, 2016, pp.
+  147--152. [Online]. Available:
+  \url{http://doi.acm.org/10.1145/3011077.3011132}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Blackstock2012}
-M.~Blackstock and R.~Lea, ``Iot mashups with the wotkit,'' in \emph{2012 3rd
-  IEEE International Conference on the Internet of Things}, Oct 2012, pp.
-  159--166.
+\bibitem{ROS2004}
+\BIBentryALTinterwordspacing
+H.~Guo and H.~L. Viktor, ``Learning from imbalanced data sets with boosting and
+  data generation: The databoost-im approach,'' \emph{SIGKDD Explor. Newsl.},
+  vol.~6, no.~1, pp. 30--39, Jun. 2004. [Online]. Available:
+  \url{http://doi.acm.org/10.1145/1007730.1007736}
+\BIBentrySTDinterwordspacing
 
-\bibitem{ibm}
-\text{IBM Company}, \emph{Available from \url{http://nodered.org/}}.
-
-\bibitem{Giang2015}
-N.~K. Giang, M.~Blackstock, R.~Lea, and V.~C.~M. Leung, ``Developing iot
-  applications in the fog: A distributed dataflow approach,'' in \emph{2015 5th
-  International Conference on the Internet of Things (IOT)}, Oct 2015, pp.
-  155--162.
-
-\bibitem{Szydlo2017}
-T.~Szydlo, R.~Brzoza-Woch, J.~Sendorek, M.~Windak, and C.~Gniady, ``Flow-based
-  programming for iot leveraging fog computing,'' in \emph{2017 IEEE 26th
-  International Conference on Enabling Technologies: Infrastructure for
-  Collaborative Enterprises (WETICE)}, June 2017, pp. 74--79.
+\bibitem{SMOTE2002}
+\BIBentryALTinterwordspacing
+N.~V. Chawla, K.~W. Bowyer, L.~O. Hall, and W.~P. Kegelmeyer, ``Smote:
+  Synthetic minority over-sampling technique,'' \emph{J. Artif. Int. Res.},
+  vol.~16, no.~1, pp. 321--357, Jun. 2002. [Online]. Available:
+  \url{http://dl.acm.org/citation.cfm?id=1622407.1622416}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
