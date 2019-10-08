@@ -152,12 +152,4 @@ H.~Guo and H.~L. Viktor, ``Learning from imbalanced data sets with boosting and
   \url{http://doi.acm.org/10.1145/1007730.1007736}
 \BIBentrySTDinterwordspacing
 
-\bibitem{SMOTE2002}
-\BIBentryALTinterwordspacing
-N.~V. Chawla, K.~W. Bowyer, L.~O. Hall, and W.~P. Kegelmeyer, ``Smote:
-  Synthetic minority over-sampling technique,'' \emph{J. Artif. Int. Res.},
-  vol.~16, no.~1, pp. 321--357, Jun. 2002. [Online]. Available:
-  \url{http://dl.acm.org/citation.cfm?id=1622407.1622416}
-\BIBentrySTDinterwordspacing
-
 \end{thebibliography}
