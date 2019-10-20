@@ -152,4 +152,79 @@ H.~Guo and H.~L. Viktor, ``Learning from imbalanced data sets with boosting and
   \url{http://doi.acm.org/10.1145/1007730.1007736}
 \BIBentrySTDinterwordspacing
 
+\bibitem{2007legal}
+\BIBentryALTinterwordspacing
+D.~C. Sicker, P.~Ohm, and D.~Grunwald, ``Legal issues surrounding monitoring
+  during network research,'' in \emph{Proceedings of the 7th ACM SIGCOMM
+  Conference on Internet Measurement}, ser. IMC '07.\hskip 1em plus 0.5em minus
+  0.4em\relax New York, NY, USA: ACM, 2007, pp. 141--148. [Online]. Available:
+  \url{http://doi.acm.org/10.1145/1298306.1298307}
+\BIBentrySTDinterwordspacing
+
+\bibitem{2008NguyenTC}
+T.~T.~T. Nguyen and G.~Armitage, ``A survey of techniques for internet traffic
+  classification using machine learning,'' \emph{IEEE Communications Surveys
+  Tutorials}, vol.~10, no.~4, pp. 56--76, Fourth 2008.
+
+\bibitem{TC-VAE}
+D.~{Li}, Y.~{Zhu}, and W.~{Lin}, ``Traffic identification of mobile apps based
+  on variational autoencoder network,'' in \emph{2017 13th International
+  Conference on Computational Intelligence and Security (CIS)}, Dec 2017, pp.
+  287--291.
+
+\bibitem{ROS2000}
+N.~Japkowicz, ``Learning from imbalanced data sets: A comparison of various
+  strategies.''\hskip 1em plus 0.5em minus 0.4em\relax AAAI Press, 2000, pp.
+  10--15.
+
+\bibitem{SMOTE2002}
+\BIBentryALTinterwordspacing
+N.~V. Chawla, K.~W. Bowyer, L.~O. Hall, and W.~P. Kegelmeyer, ``Smote:
+  Synthetic minority over-sampling technique,'' \emph{J. Artif. Int. Res.},
+  vol.~16, no.~1, pp. 321--357, Jun. 2002. [Online]. Available:
+  \url{http://dl.acm.org/citation.cfm?id=1622407.1622416}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Lin2018IDSGANGA}
+Z.~Lin, Y.~Shi, and Z.~Xue, ``Idsgan: Generative adversarial networks for
+  attack generation against intrusion detection,'' \emph{CoRR}, vol.
+  abs/1809.02077, 2018.
+
+\bibitem{Hu2017GAN}
+W.~Hu and Y.~Tan, ``Generating adversarial malware examples for black-box
+  attacks based on gan,'' \emph{CoRR}, vol. abs/1702.05983, 2017.
+
+\bibitem{KimGAN}
+J.-Y. Kim, S.-J. Bu, and S.-B. Cho, ``Malware detection using deep transferred
+  generative adversarial networks,'' 10 2017, pp. 556--564.
+
+\bibitem{Salem2018GAN}
+M.~Salem, S.~Taheri, and J.~S. Yuan, ``Anomaly generation using generative
+  adversarial networks in host based intrusion detection,'' \emph{CoRR}, vol.
+  abs/1812.04697, 2018.
+
+\bibitem{Knife-Fight}
+M.~{Rigaki} and S.~{Garcia}, ``Bringing a gan to a knife-fight: Adapting
+  malware communication to avoid detection,'' in \emph{2018 IEEE Security and
+  Privacy Workshops (SPW)}, May 2018, pp. 70--75.
+
+\bibitem{Vu-GAN}
+L.~Vu, C.~Thanh~Bui, and U.~Nguyen, ``A deep learning based method for handling
+  imbalanced problem in network traffic classification,'' 12 2017, pp.
+  333--339.
+
+\bibitem{Hasibi2019AugmentationSF}
+R.~Hasibi, M.~Shokri, and M.~Dehghan, ``Augmentation scheme for dealing with
+  imbalanced network traffic classification using deep learning,''
+  \emph{ArXiv}, vol. abs/1901.00204, 2019.
+
+\bibitem{r11}
+I.~J. {Goodfellow}, J.~{Pouget-Abadie}, M.~{Mirza}, B.~{Xu}, D.~{Warde-Farley},
+  S.~{Ozair}, A.~{Courville}, and Y.~{Bengio}, ``{Generative Adversarial
+  Networks},'' \emph{arXiv e-prints}, p. arXiv:1406.2661, Jun 2014.
+
+\bibitem{r12}
+M.~{Mirza} and S.~{Osindero}, ``{Conditional Generative Adversarial Nets},''
+  \emph{arXiv e-prints}, p. arXiv:1411.1784, Nov 2014.
+
 \end{thebibliography}

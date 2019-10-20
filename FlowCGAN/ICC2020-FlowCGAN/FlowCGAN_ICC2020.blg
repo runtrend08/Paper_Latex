@@ -7,6 +7,9 @@ Database file #2: Reference.bib
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Too many commas in name 1 of "Mohammad Lotfollahi, Ramin Shirali Hossein Zade, Mahdi Jafari Siavoshani, Mohammdsadegh Saberian" for entry deeppacket
 while executing---line 2403 of file IEEEtran.bst
+Warning--empty booktitle in ROS2000
+Warning--empty booktitle in KimGAN
+Warning--empty booktitle in Vu-GAN
 
 Done.
 (There was 1 error message)

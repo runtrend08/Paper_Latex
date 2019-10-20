@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: FlowGAN-IJRA.aux
+The style file: IEEEtran.bst
+Database file #1: IEEEfull.bib
+Database file #2: Reference.bib
+Warning--entry type for "ISCX" isn't style-file defined
+--line 543 of file Reference.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in Vu-GAN
+
+Done.
+(There were 2 warnings)
