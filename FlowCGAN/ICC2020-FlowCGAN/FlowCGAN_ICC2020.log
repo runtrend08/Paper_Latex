@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.1.30)  20 OCT 2019 09:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.1.30)  28 OCT 2019 21:08
 entering extended mode
 **./FlowCGAN_ICC2020.tex
 (FlowCGAN_ICC2020.tex
@@ -316,19 +316,128 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
+(/usr/local/share/miktex-texmf/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count110
+\mult@box=\box30
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count111
+\c@collectmore=\count112
+\doublecol@number=\count113
+\multicoltolerance=\count114
+\multicolpretolerance=\count115
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count116
+\c@finalcolumnbadness=\count117
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count118
+)
+(/usr/local/share/miktex-texmf/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count119
+\multirow@dima=\skip59
+\bigstrutjot=\dimen148
+)
+(/Users/blueboy/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
+\@cmidla=\count120
+\@cmidlb=\count121
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
+\@thisruleclass=\count122
+\@lastruleclass=\count123
+\@thisrulewidth=\dimen161
+)
+(/Users/blueboy/.miktex/texmfs/install/tex/latex/threeparttable/threeparttable.
+sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box56
+)
+(/Users/blueboy/.miktex/texmfs/install/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/local/share/miktex-texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count124
+\c@ALC@line=\count125
+\c@ALC@rem=\count126
+\c@ALC@depth=\count127
+\ALC@tlm=\skip60
+\algorithmicindent=\skip61
+)
+(/Users/blueboy/.miktex/texmfs/install/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/share/miktex-texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count128
+\float@exts=\toks27
+\float@box=\box57
+\@float@everytoks=\toks28
+\@floatcapt=\box58
+)
+\@float@every@algorithm=\toks29
+\c@algorithm=\count129
+)
 (/Users/blueboy/.miktex/texmfs/install/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 (/Users/blueboy/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen139
-\captionmargin@=\dimen140
-\captionwidth=\dimen141
-\caption@tempdima=\dimen142
-\caption@indent=\dimen143
-\caption@parindent=\dimen144
-\caption@hangindent=\dimen145
+\captionmargin=\dimen162
+\captionmargin@=\dimen163
+\captionwidth=\dimen164
+\caption@tempdima=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 )
@@ -348,48 +457,22 @@ ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
 ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
 \else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
 \fi .
-\c@ContinuedFloat=\count110
+\c@ContinuedFloat=\count130
+Package caption Info: float package is loaded.
 Package caption Info: subfigure package is loaded.
-) (/Users/blueboy/.miktex/texmfs/install/tex/latex/algorithms/algorithmic.sty
-Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-
-(/usr/local/share/miktex-texmf/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package caption Info: threeparttable package is loaded.
 )
-\c@ALC@unique=\count111
-\c@ALC@line=\count112
-\c@ALC@rem=\count113
-\c@ALC@depth=\count114
-\ALC@tlm=\skip56
-\algorithmicindent=\skip57
-)
-(/Users/blueboy/.miktex/texmfs/install/tex/latex/algorithms/algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
-nment
-
-(/usr/local/share/miktex-texmf/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count115
-\float@exts=\toks27
-\float@box=\box30
-\@float@everytoks=\toks28
-\@floatcapt=\box31
-)
-\@float@every@algorithm=\toks29
-\c@algorithm=\count116
-)
-\c@theorem=\count117
-\c@lemma=\count118
-\c@remark=\count119
-\c@proposition=\count120
-\c@corollary=\count121
-
-(/Users/blueboy/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
+\c@theorem=\count131
+\c@lemma=\count132
+\c@remark=\count133
+\c@proposition=\count134
+\c@corollary=\count135
+ (/Users/blueboy/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip58
-\bibsep=\skip59
+\bibhang=\skip62
+\bibsep=\skip63
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count122
+\c@NAT@ctr=\count136
 )
 (/Users/blueboy/.miktex/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
@@ -397,63 +480,62 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/Users/blueboy/.miktex/texmfs/install/tex/latex/mdwtools/mdwtab.sty
 Package: mdwtab 1998/04/28 1.9 Table typesetting with style
-\tab@state=\count123
-\tab@columns=\count124
+\tab@state=\count137
+\tab@columns=\count138
 \tab@preamble=\toks30
 \tab@shortline=\toks31
-\extrarowheight=\dimen146
-\tabextrasep=\dimen147
-\arrayextrasep=\dimen148
-\smarraycolsep=\dimen149
-\smarrayextrasep=\dimen150
-\tab@width=\dimen151
-\col@sep=\dimen152
-\tab@endheight=\dimen153
-\tab@leftskip=\skip60
-\tab@rightskip=\skip61
-\fn@notes=\box32
-\fn@width=\dimen154
+\extrarowheight=\dimen169
+\tabextrasep=\dimen170
+\arrayextrasep=\dimen171
+\smarraycolsep=\dimen172
+\smarrayextrasep=\dimen173
+\tab@width=\dimen174
+\col@sep=\dimen175
+\tab@endheight=\dimen176
+\tab@leftskip=\skip64
+\tab@rightskip=\skip65
+\fn@notes=\box59
+\fn@width=\dimen177
 )
 (FlowCGAN_ICC2020.aux)
 \openout1 = `FlowCGAN_ICC2020.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 
 -- Lines per column: 56 (exact).
 (/Users/blueboy/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
-\scratchdimen=\dimen155
-\scratchbox=\box33
-\nofMPsegments=\count126
-\nofMParguments=\count127
+\scratchcounter=\count139
+\scratchdimen=\dimen178
+\scratchbox=\box60
+\nofMPsegments=\count140
+\nofMParguments=\count141
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count128
-\MPscratchDim=\dimen156
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
+\MPscratchCnt=\count142
+\MPscratchDim=\dimen179
+\MPnumerator=\count143
+\makeMPintoPDFobject=\count144
 \everyMPtoPDFconversion=\toks33
 )
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 75.
-LaTeX Font Info:    Try loading font information for U+msa on input line 75.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 80.
+LaTeX Font Info:    Try loading font information for U+msa on input line 80.
  (/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 75.
+LaTeX Font Info:    Try loading font information for U+msb on input line 80.
 
 (/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -467,11 +549,233 @@ DF version <1.7>, but at most version <1.5> allowed
 <fig/CGAN-20191017.pdf, id=13, 607.78465pt x 397.14474pt>
 File: fig/CGAN-20191017.pdf Graphic file (type pdf)
 <use fig/CGAN-20191017.pdf>
-Package pdftex.def Info: fig/CGAN-20191017.pdf  used on input line 158.
+Package pdftex.def Info: fig/CGAN-20191017.pdf  used on input line 163.
 (pdftex.def)             Requested size: 227.6219pt x 170.71437pt.
-[3 <./fig/CGAN-20191017.pdf>] (FlowCGAN_ICC2020.bbl
+
+
+pdfTeX warning: pdflatex (file ./fig/PacketCGAN-WorkFlow-ICC2020.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<fig/PacketCGAN-WorkFlow-ICC2020.pdf, id=14, 493.84901pt x 339.65796pt>
+File: fig/PacketCGAN-WorkFlow-ICC2020.pdf Graphic file (type pdf)
+<use fig/PacketCGAN-WorkFlow-ICC2020.pdf>
+Package pdftex.def Info: fig/PacketCGAN-WorkFlow-ICC2020.pdf  used on input lin
+e 227.
+(pdftex.def)             Requested size: 238.49121pt x 164.02905pt.
+[3 <./fig/CGAN-20191017.pdf>]
+
+pdfTeX warning: pdflatex (file ./fig/PCGAN_architecture.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<fig/PCGAN_architecture.pdf, id=77, 641.79434pt x 281.40233pt>
+File: fig/PCGAN_architecture.pdf Graphic file (type pdf)
+<use fig/PCGAN_architecture.pdf>
+Package pdftex.def Info: fig/PCGAN_architecture.pdf  used on input line 255.
+(pdftex.def)             Requested size: 238.49121pt x 104.56807pt.
+[4 <./fig/PacketCGAN-WorkFlow-ICC2020.pdf> <./fig/PCGAN_architecture.pdf>]
+LaTeX Font Info:    Calculating math sizes for size <6.5> on input line 403.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 403.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.25> not available
+(Font)              size <5> substituted on input line 403.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 403.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 405.
+
+Overfull \hbox (6.70518pt too wide) in paragraph at lines 439--464
+ [] 
+ []
+
+[5] [6]
+<fig/dloss_ISCX.png, id=160, 236.082pt x 154.176pt>
+File: fig/dloss_ISCX.png Graphic file (type png)
+<use fig/dloss_ISCX.png>
+Package pdftex.def Info: fig/dloss_ISCX.png  used on input line 639.
+(pdftex.def)             Requested size: 115.63243pt x 75.51395pt.
+<fig/gloss_ISCX.png, id=162, 254.1495pt x 155.3805pt>
+File: fig/gloss_ISCX.png Graphic file (type png)
+<use fig/gloss_ISCX.png>
+Package pdftex.def Info: fig/gloss_ISCX.png  used on input line 645.
+(pdftex.def)             Requested size: 122.85876pt x 75.11049pt.
+
+Overfull \hbox (7.00012pt too wide) in paragraph at lines 639--646
+ [][][] 
+ []
+
+<fig/dloss_USTC.png, id=163, 1033.61156pt x 411.78844pt>
+File: fig/dloss_USTC.png Graphic file (type png)
+<use fig/dloss_USTC.png>
+Package pdftex.def Info: fig/dloss_USTC.png  used on input line 653.
+(pdftex.def)             Requested size: 115.63243pt x 46.06343pt.
+<fig/gloss_USTC.png, id=164, 965.6075pt x 540.0175pt>
+File: fig/gloss_USTC.png Graphic file (type png)
+<use fig/gloss_USTC.png>
+Package pdftex.def Info: fig/gloss_USTC.png  used on input line 659.
+(pdftex.def)             Requested size: 122.85876pt x 68.70505pt.
+
+Overfull \hbox (7.00012pt too wide) in paragraph at lines 653--660
+ [][][] 
+ []
+
+<fig/CNNBase_on_istc_REPEAT.png, id=165, 1025.8325pt x 779.91376pt>
+File: fig/CNNBase_on_istc_REPEAT.png Graphic file (type png)
+<use fig/CNNBase_on_istc_REPEAT.png>
+Package pdftex.def Info: fig/CNNBase_on_istc_REPEAT.png  used on input line 677
+.
+(pdftex.def)             Requested size: 122.85876pt x 93.3952pt.
+<fig/CNNBase_on_istc_SMOTE.png, id=166, 1012.78375pt x 759.83875pt>
+File: fig/CNNBase_on_istc_SMOTE.png Graphic file (type png)
+<use fig/CNNBase_on_istc_SMOTE.png>
+Package pdftex.def Info: fig/CNNBase_on_istc_SMOTE.png  used on input line 684.
+
+(pdftex.def)             Requested size: 122.85876pt x 92.17381pt.
+<fig/CNNBase_on_istc_GAN.png, id=167, 1038.88126pt x 759.83875pt>
+File: fig/CNNBase_on_istc_GAN.png Graphic file (type png)
+<use fig/CNNBase_on_istc_GAN.png>
+Package pdftex.def Info: fig/CNNBase_on_istc_GAN.png  used on input line 691.
+(pdftex.def)             Requested size: 122.85876pt x 89.85497pt.
+<fig/CNNBase_on_istc_CGAN.png, id=168, 1030.85126pt x 746.79pt>
+File: fig/CNNBase_on_istc_CGAN.png Graphic file (type png)
+<use fig/CNNBase_on_istc_CGAN.png>
+Package pdftex.def Info: fig/CNNBase_on_istc_CGAN.png  used on input line 698.
+(pdftex.def)             Requested size: 122.85876pt x 88.99559pt.
+
+Overfull \hbox (14.00024pt too wide) in paragraph at lines 677--699
+ [][][][][] 
+ []
+
+<fig/CNNBase_on_ustc_REPEAT.png, id=169, 809.0225pt x 742.775pt>
+File: fig/CNNBase_on_ustc_REPEAT.png Graphic file (type png)
+<use fig/CNNBase_on_ustc_REPEAT.png>
+Package pdftex.def Info: fig/CNNBase_on_ustc_REPEAT.png  used on input line 710
+.
+(pdftex.def)             Requested size: 122.85876pt x 112.79416pt.
+<fig/CNNBase_on_ustc_SMOTE.png, id=170, 825.0825pt x 732.7375pt>
+File: fig/CNNBase_on_ustc_SMOTE.png Graphic file (type png)
+<use fig/CNNBase_on_ustc_SMOTE.png>
+Package pdftex.def Info: fig/CNNBase_on_ustc_SMOTE.png  used on input line 717.
+
+(pdftex.def)             Requested size: 122.85876pt x 109.10088pt.
+<fig/CNNBase_on_ustc_GAN.png, id=171, 817.0525pt x 726.715pt>
+File: fig/CNNBase_on_ustc_GAN.png Graphic file (type png)
+<use fig/CNNBase_on_ustc_GAN.png>
+Package pdftex.def Info: fig/CNNBase_on_ustc_GAN.png  used on input line 724.
+(pdftex.def)             Requested size: 122.85876pt x 109.26866pt.
+<fig/CNNBase_on_ustc_CGAN.png, id=172, 827.09pt x 722.7pt>
+File: fig/CNNBase_on_ustc_CGAN.png Graphic file (type png)
+<use fig/CNNBase_on_ustc_CGAN.png>
+Package pdftex.def Info: fig/CNNBase_on_ustc_CGAN.png  used on input line 731.
+(pdftex.def)             Requested size: 122.85876pt x 107.34167pt.
+
+Overfull \hbox (14.00024pt too wide) in paragraph at lines 710--732
+ [][][][][] 
+ []
+
+<fig/ISCX_ROS_BAR.png, id=173, 462.528pt x 344.0052pt>
+File: fig/ISCX_ROS_BAR.png Graphic file (type png)
+<use fig/ISCX_ROS_BAR.png>
+Package pdftex.def Info: fig/ISCX_ROS_BAR.png  used on input line 746.
+(pdftex.def)             Requested size: 122.85876pt x 91.37614pt.
+<fig/ISCX_CGAN_BAR.png, id=174, 462.528pt x 344.0052pt>
+File: fig/ISCX_CGAN_BAR.png Graphic file (type png)
+<use fig/ISCX_CGAN_BAR.png>
+Package pdftex.def Info: fig/ISCX_CGAN_BAR.png  used on input line 752.
+(pdftex.def)             Requested size: 122.85876pt x 91.37614pt.
+<fig/ISCX_GAN_BAR.png, id=175, 462.528pt x 344.0052pt>
+File: fig/ISCX_GAN_BAR.png Graphic file (type png)
+<use fig/ISCX_GAN_BAR.png>
+Package pdftex.def Info: fig/ISCX_GAN_BAR.png  used on input line 758.
+(pdftex.def)             Requested size: 122.85876pt x 91.37614pt.
+File: fig/ISCX_CGAN_BAR.png Graphic file (type png)
+<use fig/ISCX_CGAN_BAR.png>
+Package pdftex.def Info: fig/ISCX_CGAN_BAR.png  used on input line 764.
+(pdftex.def)             Requested size: 122.85876pt x 91.37614pt.
+
+Overfull \hbox (14.00024pt too wide) in paragraph at lines 746--765
+ [][][][][] 
+ []
+
+<fig/2DCNNBase_on_ustc_oversample.png, id=176, 642.4pt x 481.8pt>
+File: fig/2DCNNBase_on_ustc_oversample.png Graphic file (type png)
+<use fig/2DCNNBase_on_ustc_oversample.png>
+Package pdftex.def Info: fig/2DCNNBase_on_ustc_oversample.png  used on input li
+ne 774.
+(pdftex.def)             Requested size: 122.85876pt x 92.13843pt.
+<fig/2DCNNBase_on_ustc_smote.png, id=177, 642.4pt x 481.8pt>
+File: fig/2DCNNBase_on_ustc_smote.png Graphic file (type png)
+<use fig/2DCNNBase_on_ustc_smote.png>
+Package pdftex.def Info: fig/2DCNNBase_on_ustc_smote.png  used on input line 78
+0.
+(pdftex.def)             Requested size: 122.85876pt x 92.13843pt.
+<fig/2DCNNBase_on_ustc_GAN.png, id=178, 642.4pt x 481.8pt>
+File: fig/2DCNNBase_on_ustc_GAN.png Graphic file (type png)
+<use fig/2DCNNBase_on_ustc_GAN.png>
+Package pdftex.def Info: fig/2DCNNBase_on_ustc_GAN.png  used on input line 786.
+
+(pdftex.def)             Requested size: 122.85876pt x 92.13843pt.
+<fig/CNNBase_on_ustc_CGAN_BAR.png, id=179, 642.4pt x 481.8pt>
+File: fig/CNNBase_on_ustc_CGAN_BAR.png Graphic file (type png)
+<use fig/CNNBase_on_ustc_CGAN_BAR.png>
+Package pdftex.def Info: fig/CNNBase_on_ustc_CGAN_BAR.png  used on input line 7
+92.
+(pdftex.def)             Requested size: 122.85876pt x 92.13843pt.
+
+Overfull \hbox (14.00024pt too wide) in paragraph at lines 774--793
+ [][][][][] 
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <5.5> on input line 804.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.75> not available
+(Font)              size <5> substituted on input line 804.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.75> not available
+(Font)              size <5> substituted on input line 804.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.75> not available
+(Font)              size <5> substituted on input line 804.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 806.
+
+Overfull \hbox (5.84651pt too wide) in paragraph at lines 841--856
+ [][] 
+ []
+
+(FlowCGAN_ICC2020.bbl [7 <./fig/dloss_ISCX.png> <./fig/gloss_ISCX.png> <./fig/d
+loss_USTC.png> <./fig/gloss_USTC.png (PNG copy)>]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./fig/CNNBase_on_istc_REPEAT.png (PNG copy)> <./fig/CNNBase_on_istc_SMOTE.
+png (PNG copy)> <./fig/CNNBase_on_istc_GAN.png (PNG copy)> <./fig/CNNBase_on_is
+tc_CGAN.png (PNG copy)> <./fig/CNNBase_on_ustc_REPEAT.png (PNG copy)> <./fig/CN
+NBase_on_ustc_SMOTE.png (PNG copy)> <./fig/CNNBase_on_ustc_GAN.png (PNG copy)> 
+<./fig/CNNBase_on_ustc_CGAN.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./fig/ISCX_ROS_BAR.png> <./fig/ISCX_CGAN_BAR.png> <./fig/ISCX_GAN_BAR.png>
+ <./fig/2DCNNBase_on_ustc_oversample.png (PNG copy)> <./fig/2DCNNBase_on_ustc_s
+mote.png (PNG copy)> <./fig/2DCNNBase_on_ustc_GAN.png (PNG copy)> <./fig/CNNBas
+e_on_ustc_CGAN_BAR.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 )
 
 ** Conference Paper **
@@ -484,31 +788,37 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4] (FlowCGAN_ICC2020.aux) ) 
+[10] (FlowCGAN_ICC2020.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 2.25pt have occurred.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5999 strings out of 495207
- 89734 string characters out of 3181523
- 167281 words of memory out of 3000000
- 9205 multiletter control sequences out of 15000+200000
- 43380 words of font info for 97 fonts, out of 3000000 for 9000
+ 6520 strings out of 495207
+ 98941 string characters out of 3181523
+ 193495 words of memory out of 3000000
+ 9682 multiletter control sequences out of 15000+200000
+ 55242 words of font info for 122 fonts, out of 3000000 for 9000
  21 hyphenation exceptions out of 8191
- 42i,17n,39p,2070b,379s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/share/miktex-texmf/fonts/enc/dvips/base
-/8r.enc}</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmmi10.pf
-b></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
-/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/
-share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/share/m
-iktex-texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/share/miktex-te
-xmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/share/miktex-texmf/fo
-nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/share/miktex-texmf/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb></usr/local/share/miktex-texmf/fonts/type1/publ
-ic/amsfonts/symbols/msbm10.pfb></usr/local/share/miktex-texmf/fonts/type1/urw/t
-imes/utmb8a.pfb></usr/local/share/miktex-texmf/fonts/type1/urw/times/utmbi8a.pf
-b></usr/local/share/miktex-texmf/fonts/type1/urw/times/utmr8a.pfb></usr/local/s
-hare/miktex-texmf/fonts/type1/urw/times/utmri8a.pfb>
-Output written on FlowCGAN_ICC2020.pdf (4 pages, 203550 bytes).
+ 42i,18n,40p,2070b,549s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/share/miktex-texmf/fonts/enc/dvips/base/8r.enc}</usr/local/share/
+miktex-texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/share/miktex
+-texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/share/miktex-texmf
+/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/share/miktex-texmf/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb></usr/local/share/miktex-texmf/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cms
+y7.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/symbols/msbm10.pfb><
+/usr/local/share/miktex-texmf/fonts/type1/urw/times/utmb8a.pfb></usr/local/shar
+e/miktex-texmf/fonts/type1/urw/times/utmbi8a.pfb></usr/local/share/miktex-texmf
+/fonts/type1/urw/times/utmr8a.pfb></usr/local/share/miktex-texmf/fonts/type1/ur
+w/times/utmri8a.pfb>
+Output written on FlowCGAN_ICC2020.pdf (10 pages, 1268042 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 243 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

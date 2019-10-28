@@ -2,6 +2,8 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: FlowCGAN_ICC2020.aux
 The style file: IEEEtran.bst
 Database file #1: IEEEfull.bib
 Database file #2: Reference.bib
+Warning--entry type for "ISCX" isn't style-file defined
+--line 856 of file Reference.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -10,6 +12,9 @@ while executing---line 2403 of file IEEEtran.bst
 Warning--empty booktitle in ROS2000
 Warning--empty booktitle in KimGAN
 Warning--empty booktitle in Vu-GAN
+Warning--empty title in pcap
+Warning--empty year in pcap
+Warning--empty booktitle in r8
 
 Done.
 (There was 1 error message)

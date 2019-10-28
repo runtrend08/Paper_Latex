@@ -10,7 +10,6 @@
 \citation{Vu2017,Vu2016}
 \@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}}
 \newlabel{sec:intro}{{I}{1}}
-\citation{ROS2004}
 \citation{2007legal}
 \citation{2008NguyenTC}
 \citation{MobileTC-2018,deeppacket,Datanet,Wang-1D-CNN,Wang2D-CNN,IoT-CNN-2017,HAST-IDS,Seq2Img,blackhat,TC-VAE,HierarchicalTC}
@@ -25,8 +24,12 @@
 \newlabel{sec:related_works}{{II}{2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}ML and DL based approach of Traffic Classification}{2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Traditional methods for handling imbalanced data}{2}}
+\newlabel{subsec_imbalance}{{\unhbox \voidb@x \hbox {II-B}}{2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-C}}The application of GAN and other DL techniques in generating traffic data samples}{2}}
 \citation{r11}
+\citation{pcap}
+\citation{ISCX}
+\citation{Wang2D-CNN}
 \@writefile{toc}{\contentsline {section}{\numberline {III}Generative Adversarial Networks}{3}}
 \newlabel{gan}{{III}{3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}GAN}{3}}
@@ -34,18 +37,81 @@
 \newlabel{GAN}{{1}{3}}
 \newlabel{eq1}{{2}{3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}CGAN}{3}}
-\newlabel{CGAN}{{3}{3}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces The network structure of CGAN.\relax }}{3}}
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
 \newlabel{fig_cgan}{{1}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-C}}InfoGAN}{3}}
-\newlabel{InfoGAN}{{4}{3}}
-\newlabel{V_InfoGAN}{{5}{3}}
+\newlabel{CGAN}{{3}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}The Methodology of PacketCGAN}{3}}
+\newlabel{algorithm}{{IV}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}The Workflow of PacketCGAN Based Encrypted Traffic Classification}{3}}
+\newlabel{data_preprocess}{{\unhbox \voidb@x \hbox {IV-A}1}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}1}Phase 1}{3}}
+\citation{r8}
+\citation{Datanet}
+\citation{Datanet}
+\citation{Wang-1D-CNN,Wang2D-CNN}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The workflow of PacketCGAN.\relax }}{4}}
+\newlabel{fig:workflow}{{2}{4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}2}Phase 2}{4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}3}Phase 3: Traffic Classifier Training}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}The Model Architecture and Algorithm Description of PacketCGAN}{4}}
+\newlabel{algorithm_description}{{\unhbox \voidb@x \hbox {IV-B}}{4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}1}The Description of Model Architecture}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces The Architecture of PacketCGAN.\relax }}{4}}
+\newlabel{fig:pcgan_model}{{3}{4}}
+\newlabel{model_algorithm}{{\unhbox \voidb@x \hbox {IV-B}2}{4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}2}The Description of Model Algorithm}{4}}
+\newlabel{d_input}{{4}{4}}
+\newlabel{d_output}{{5}{4}}
+\citation{ISCX}
+\citation{Wang2D-CNN}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces The training of Discriminator of PacketCGAN\relax }}{5}}
+\newlabel{algorithm:discriminator}{{1}{5}}
+\newlabel{g_input}{{6}{5}}
+\newlabel{g_output}{{7}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Evaluation and Experimental results}{5}}
+\newlabel{exp:results}{{V}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-A}}Experimental Settings}{5}}
+\newlabel{exp:setting}{{\unhbox \voidb@x \hbox {V-A}}{5}}
+\newlabel{exp:dataset}{{\unhbox \voidb@x \hbox {V-A}1}{5}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {2}{\ignorespaces The training of Generator of PacketCGAN\relax }}{5}}
+\newlabel{algorithm:generator}{{2}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}1}Dataset for Evaluation}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Description of the chosen datasets from ISCX.\relax }}{5}}
+\newlabel{tab:Desc_Samples_ISCX}{{I}{5}}
+\newlabel{exp:config}{{\unhbox \voidb@x \hbox {V-A}2}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}2}Configurations of the Computing Platform}{5}}
+\citation{Datanet}
+\@writefile{lot}{\contentsline {table}{\numberline {II}{\ignorespaces Description of the chosen datasets from USTC-TFC2016.\relax }}{6}}
+\newlabel{tab:Desc_Samples_USTC}{{II}{6}}
+\newlabel{exp:classifier}{{\unhbox \voidb@x \hbox {V-A}3}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}3}Description of deep learning based network traffic classifier}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {III}{\ignorespaces Experimental Environment Parameters\relax }}{6}}
+\newlabel{tab:parameters}{{III}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}4}Performance Metrics for Classification}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-B}}Data Augmenting using PacketCGAN}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}1}Data Augmenting Methods handling the problem of class imbalance}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}2}The Architecture of PacketCGAN}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {IV}{\ignorespaces The Architecture of Generator Network of PacketCGAN\relax }}{6}}
+\newlabel{tab:generator}{{IV}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}3}The Training of PacketCGAN}{6}}
 \bibstyle{IEEEtran}
 \bibdata{IEEEfull,Reference}
 \bibcite{Finsterbusch2014}{{1}{}{{}}{{}}}
 \bibcite{SDN-HGU}{{2}{}{{}}{{}}}
 \bibcite{PhoneNumber}{{3}{}{{}}{{}}}
+\@writefile{lot}{\contentsline {table}{\numberline {V}{\ignorespaces The Architecture of Discriminator Network of PacketCGAN\relax }}{7}}
+\newlabel{tab:discriminator}{{V}{7}}
+\@writefile{lot}{\contentsline {table}{\numberline {VI}{\ignorespaces Training Parameters of Packet CGAN\relax }}{7}}
+\newlabel{training_parameters}{{VI}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Loss of PacketCGAN\relax }}{7}}
+\newlabel{cgan_loss}{{4}{7}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {d\_loss for ISCX2012}}}{7}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {g\_loss for ISCX2012}}}{7}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {d\_loss for USTC-TFC2016}}}{7}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {g\_loss for USTC-TFC2016}}}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {VI}Conclusion and Future work}{7}}
+\newlabel{conclusion}{{VI}{7}}
 \bibcite{Pescape2008}{{4}{}{{}}{{}}}
 \bibcite{Sun2010}{{5}{}{{}}{{}}}
 \bibcite{Velan2015}{{6}{}{{}}{{}}}
@@ -60,6 +126,34 @@
 \bibcite{blackhat}{{15}{}{{}}{{}}}
 \bibcite{IoT-CNN-2017}{{16}{}{{}}{{}}}
 \bibcite{HAST-IDS}{{17}{}{{}}{{}}}
+\newlabel{ros_cm_iscx}{{5(a)}{8}}
+\newlabel{sub@ros_cm_iscx}{{(a)}{8}}
+\newlabel{smote_cm_iscx}{{5(b)}{8}}
+\newlabel{sub@smote_cm_iscx}{{(b)}{8}}
+\newlabel{gan_cm_iscx}{{5(c)}{8}}
+\newlabel{sub@gan_cm_iscx}{{(c)}{8}}
+\newlabel{cgan_cm_iscx}{{5(d)}{8}}
+\newlabel{sub@cgan_cm_iscx}{{(d)}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Confusion Matrices of CNN-based encrypted traffic identification method on ISCX2012 dataset\relax }}{8}}
+\newlabel{confusion_matrices_ISCX}{{5}{8}}
+\newlabel{ros_cm_ustc}{{6(a)}{8}}
+\newlabel{sub@ros_cm_ustc}{{(a)}{8}}
+\newlabel{smote_cm_ustc}{{6(b)}{8}}
+\newlabel{sub@smote_cm_ustc}{{(b)}{8}}
+\newlabel{gan_cm_ustc}{{6(c)}{8}}
+\newlabel{sub@gan_cm_ustc}{{(c)}{8}}
+\newlabel{cgan_cm_ustc}{{6(d)}{8}}
+\newlabel{sub@cgan_cm_ustc}{{(d)}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Confusion Matrices of CNN-based encrypted traffic identification method on USTC-TFC2016\relax }}{8}}
+\newlabel{confusion_matrices_USTC}{{6}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {ROS}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {SMOTE}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {GAN}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {PacketCGAN}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {ROS}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {SMOTE}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {GAN}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {PacketCGAN}}}{8}}
 \bibcite{Japkowicz:2002}{{18}{}{{}}{{}}}
 \bibcite{Vu2017}{{19}{}{{}}{{}}}
 \bibcite{Vu2016}{{20}{}{{}}{{}}}
@@ -74,9 +168,26 @@
 \bibcite{KimGAN}{{29}{}{{}}{{}}}
 \bibcite{Salem2018GAN}{{30}{}{{}}{{}}}
 \bibcite{Knife-Fight}{{31}{}{{}}{{}}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Performance metrics of DL-based encrypted traffic identification method on ISCX\relax }}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Performance metrics of DL-based encrypted traffic identification method on USTC-TFC2016\relax }}{9}}
+\newlabel{performance}{{8}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {ROS}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {PacketCGAN}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {GAN}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {PacketCGAN}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {ROS}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {SMOTE}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {GAN}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {PacketCGAN}}}{9}}
 \bibcite{Vu-GAN}{{32}{}{{}}{{}}}
 \bibcite{Hasibi2019AugmentationSF}{{33}{}{{}}{{}}}
 \bibcite{r11}{{34}{}{{}}{{}}}
-\bibcite{r12}{{35}{}{{}}{{}}}
+\bibcite{pcap}{{35}{}{{}}{{}}}
+\bibcite{ISCX}{{36}{}{{}}{{}}}
+\bibcite{r8}{{37}{}{{}}{{}}}
+\bibcite{r21}{{38}{}{{}}{{}}}
 \providecommand\NAT@force@numbers{}\NAT@force@numbers
-\newlabel{Variation_Maximization}{{6}{4}}
+\@writefile{lot}{\contentsline {table}{\numberline {VII}{\ignorespaces Description of Experimental results on different generative methods for ISCX2012\relax }}{10}}
+\newlabel{tab:Desc_Samples}{{VII}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {VIII}{\ignorespaces Classification Performance Statistics.\relax }}{10}}
+\newlabel{table:performance_classifier}{{VIII}{10}}

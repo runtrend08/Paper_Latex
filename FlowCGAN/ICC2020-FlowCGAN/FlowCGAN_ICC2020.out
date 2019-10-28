@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related works}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{ML and DL based approach of Traffic Classification}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Traditional methods for handling imbalanced data}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{The application of GAN and other DL techniques in generating traffic data samples}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Generative Adversarial Networks}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{GAN}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{CGAN}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{The Methodology of PacketCGAN}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{The Workflow of PacketCGAN Based Encrypted Traffic Classification}{section.4}% 10
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Phase 1:Packet Data Preprocessing}{subsection.4.1}% 11

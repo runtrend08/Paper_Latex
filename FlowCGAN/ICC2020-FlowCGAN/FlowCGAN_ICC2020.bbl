@@ -223,8 +223,23 @@ I.~J. {Goodfellow}, J.~{Pouget-Abadie}, M.~{Mirza}, B.~{Xu}, D.~{Warde-Farley},
   S.~{Ozair}, A.~{Courville}, and Y.~{Bengio}, ``{Generative Adversarial
   Networks},'' \emph{arXiv e-prints}, p. arXiv:1406.2661, Jun 2014.
 
-\bibitem{r12}
-M.~{Mirza} and S.~{Osindero}, ``{Conditional Generative Adversarial Nets},''
-  \emph{arXiv e-prints}, p. arXiv:1411.1784, Nov 2014.
+\bibitem{pcap}
+\text{PCAP Next Generation Dump File Format}, \emph{Available from
+  \url{http://www.tcpdump.org/pcap/pcap.html}}.
+
+\bibitem{ISCX}
+A.~Habibi~Lashkari, G.~Draper~Gil, M.~Mamun, and A.~Ghorbani,
+  ``Characterization of encrypted and vpn traffic using time-related
+  features,'' 02 2016.
+
+\bibitem{r8}
+C.~X. Wang~Pan, ``Encrypted traffic identification method based on stacked
+  automatic encoder,'' 2018, pp. 1--8.
+
+\bibitem{r21}
+G.~Draper-Gil, A.~H. Lashkari, M.~S.~I. Mamun, and A.~A. Ghorbani,
+  ``Characterization of encrypted and vpn traffic using time-related,'' in
+  \emph{Proceedings of the 2nd international conference on information systems
+  security and privacy (ICISSP)}, 2016, pp. 407--414.
 
 \end{thebibliography}
